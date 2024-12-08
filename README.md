@@ -1,11 +1,11 @@
 
 
-# LandSin
+# MLBlock
 
 ![Project Logo](interface.png)  
 ## Overview
 
-**LandSin** is a powerful application designed to analyze land pricing and predict land value for a particular area and several statistical analysis about the land to make a decision weather the land could be affordable or habitable for you.
+**MLBlock** is a powerful application designed to analyze land pricing and predict land value for a particular area and several statistical analysis about the land to make a decision weather the land could be affordable or habitable for you.
 
 ## Table of Contents
 
@@ -48,13 +48,13 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/alauddin-sabari/LandSin.git
+   git clone https://github.com/alauddin-sabari/MLBlock.git
    ```
 
 2. **Navigate into the project directory:**
 
    ```bash
-   cd LandSin
+   cd MLBlock
    ```
 
 3. **Install the required packages:**
